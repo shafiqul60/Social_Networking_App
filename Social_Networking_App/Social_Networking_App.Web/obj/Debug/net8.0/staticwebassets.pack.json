@@ -1,0 +1,1049 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Social_Networking_App.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Social_Networking_App.Web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\auth.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\auth.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\chat.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\chat.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\components.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\components.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\forms.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\forms.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\market.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\market.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\media.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\media.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\messenger.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\messenger.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\profile.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\profile.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\settings.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\css\\update.css",
+      "PackagePath": "staticwebassets\\Template\\assets\\css\\update.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Template\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Template\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Template\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Template\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Template\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\auth-bg-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\auth-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\auth-bg-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\auth-bg-2.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\auth-bg.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\auth-bg.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\auth-bg.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\auth-bg.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\westcliff_Background.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\westcliff_Background.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\westcliff_Background2.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\westcliff_Background2.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\westcliff_Background3.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\westcliff_Background3.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\westcliff_Background4.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\westcliff_Background4.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\background\\westcliff_Background5.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\background\\westcliff_Background5.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_100.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_100.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_1024.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_1024.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_114.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_114.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_144.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_144.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_250.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_250.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_512.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_512.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_58.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_58.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_72.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\fb\\f_logo_RGB-Blue_72.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\category-1.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\category-1.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\category-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\category-2.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\category-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\category-3.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\category-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\category-4.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\category-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\category-5.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\category-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\category-6.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\group-1.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\group-1.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\group-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\group-2.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\group-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\group-3.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\group-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\group-4.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\group-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\group-5.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\groups\\group-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\groups\\group-6.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\007-heart.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\007-heart.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\auth-fingerprint.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\auth-fingerprint.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\fingerprint.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\fingerprint.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\gear.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\gear.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\006-mail.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\006-mail.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\event.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\event.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\find-friends.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\find-friends.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\group.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\group.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\home-icon-silhouette.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\home-icon-silhouette.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\matches.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\matches.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\message.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\message.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\news.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\news.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\newsfeed.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\newsfeed.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\saved.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\saved.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\left-sidebar\\team.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\left-sidebar\\team.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\attach-file.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\attach-file.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\call.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\call.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\change-color.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\change-color.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\console.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\console.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\gif.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\gif.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\info.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\info.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\m-camera.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\m-camera.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\m-gamepad.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\m-gamepad.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\m-microphone.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\m-microphone.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\m-photo.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\m-photo.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\m-send.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\m-send.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\m-smile.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\m-smile.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\phone.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\phone.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\photo-camera.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\photo-camera.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\search.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\search.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\send.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\send.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\smile.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\smile.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\video-call.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\video-call.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\messenger\\videocam.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\messenger\\videocam.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\account.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\account.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\create.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\create.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\event.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\event.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\flag.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\flag.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\gear-1.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\gear-1.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\group.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\group.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\help.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\help.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\logout.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\logout.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\market.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\market.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\message.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\message.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\moon.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\moon.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\notification.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\notification.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\navbar\\settings.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\navbar\\settings.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\paypal.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\paypal.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\angry.gif",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\angry.gif"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\haha.gif",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\haha.gif"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\like.gif",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\like.gif"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\love.gif",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\love.gif"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\reaction-small.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\reaction-small.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\reactions_angry.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\reactions_angry.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\reactions_haha.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\reactions_haha.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\reactions_like.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\reactions_like.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\reactions_love.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\reactions_love.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\reactions_sad.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\reactions_sad.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\reactions_wow.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\reactions_wow.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\sad.gif",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\sad.gif"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\reactions\\wow.gif",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\reactions\\wow.gif"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\sessions\\android.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\sessions\\android.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\sessions\\desktop.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\sessions\\desktop.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\sessions\\iphone.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\sessions\\iphone.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\sessions\\tablet.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\sessions\\tablet.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\settings\\account.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\settings\\account.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\settings\\contact.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\settings\\contact.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\settings\\credit-card.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\settings\\credit-card.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\settings\\fingerprint.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\settings\\fingerprint.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\settings\\location.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\settings\\location.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\settings\\privacy.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\settings\\privacy.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\settings\\security-question.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\settings\\security-question.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\settings\\wallet.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\settings\\wallet.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\003-start.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\003-start.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\check-in.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\check-in.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\create.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\create.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\group-white.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\group-white.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\group.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\group.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\listen.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\listen.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\navs.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\navs.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\post-image.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\post-image.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\post-public.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\post-public.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\rocket.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\rocket.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\shopping-bag-white.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\shopping-bag-white.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\shopping-bag.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\shopping-bag.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\speech.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\speech.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\tag-friend.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\tag-friend.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\theme\\watch.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\theme\\watch.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\visa.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\visa.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\bolt.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\bolt.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\celsius.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\celsius.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\cloud-bolt.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\cloud-bolt.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\cloud-wind.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\cloud-wind.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\cloud.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\cloud.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\cloudy-day.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\cloudy-day.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\cloudy-sunny-winds.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\cloudy-sunny-winds.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\freezing.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\freezing.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\rainy-day.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\rainy-day.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\snowflake.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\snowflake.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\sun.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\sun.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\icons\\weather\\winds.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\icons\\weather\\winds.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\logo-128x128.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\logo-128x128.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\logo-16x16.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\logo-16x16.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\logo-24x24.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\logo-24x24.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\logo-256x256.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\logo-256x256.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\logo-32x32.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\logo-32x32.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\logo-512x512.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\logo-512x512.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\logo-64x64.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\logo-64x64.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\posts\\post-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\posts\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\theme\\suggested.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\theme\\suggested.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\theme\\verify.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\theme\\verify.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\album\\album-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\album\\album-1.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\album\\album-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\album\\album-2.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\album\\album-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\album\\album-3.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\cover\\cover-1.gif",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\cover\\cover-1.gif"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\cover\\cover-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\cover\\cover-2.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\post\\post-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\post\\post-1.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-1.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-10.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-10.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-11.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-11.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-12.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-12.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-13.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-13.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-2.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-3.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-4.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-5.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-5.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-6.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-6.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-7.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-7.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-8.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-8.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\users\\user-9.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\users\\user-9.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\images\\westcliff-logo.png",
+      "PackagePath": "staticwebassets\\Template\\assets\\images\\westcliff-logo.png"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\components\\components.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\components\\components.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\jquery\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\jquery\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\jquery\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\jquery\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\load.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\load.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Template\\assets\\js\\popper\\popper.min.js",
+      "PackagePath": "staticwebassets\\Template\\assets\\js\\popper\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Social_Networking_App.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Social_Networking_App.Web.props",
+      "PackagePath": "build\\Social_Networking_App.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Social_Networking_App.Web.props",
+      "PackagePath": "buildMultiTargeting\\Social_Networking_App.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Social_Networking_App.Web.props",
+      "PackagePath": "buildTransitive\\Social_Networking_App.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

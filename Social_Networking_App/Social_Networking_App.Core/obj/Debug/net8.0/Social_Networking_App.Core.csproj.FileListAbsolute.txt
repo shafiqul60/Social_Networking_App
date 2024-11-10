@@ -1,0 +1,11 @@
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\bin\Debug\net8.0\Social_Networking_App.Core.deps.json
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\bin\Debug\net8.0\Social_Networking_App.Core.dll
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\bin\Debug\net8.0\Social_Networking_App.Core.pdb
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\obj\Debug\net8.0\Social_Networking_App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\obj\Debug\net8.0\Social_Networking_App.Core.AssemblyInfoInputs.cache
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\obj\Debug\net8.0\Social_Networking_App.Core.AssemblyInfo.cs
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\obj\Debug\net8.0\Social_Networking_App.Core.csproj.CoreCompileInputs.cache
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\obj\Debug\net8.0\Social_Networking_App.Core.dll
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\obj\Debug\net8.0\refint\Social_Networking_App.Core.dll
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\obj\Debug\net8.0\Social_Networking_App.Core.pdb
+D:\Education\MSC\DEV 640 Web Programming Part2\Final Project\Social_Networking_App\Social_Networking_App.Core\obj\Debug\net8.0\ref\Social_Networking_App.Core.dll
