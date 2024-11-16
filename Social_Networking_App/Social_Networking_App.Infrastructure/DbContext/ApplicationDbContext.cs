@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Social_Networking_App.Core.Domains;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,5 +21,7 @@ namespace Social_Networking_App.Infrastructure.DbContext
         {
             base.OnModelCreating(builder);
         }
+
+        public DbSet<UserInfo> UserInfos { get; set; }
     }
 }

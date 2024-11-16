@@ -1,0 +1,108 @@
+﻿@model Social_Networking_App.Core.ViewModels.UserInfoVM;
+
+
+<div class="container-fluid">
+    <div class="row ht-100v flex-row-reverse no-gutters">
+        <div class="col-md-12 d-flex justify-content-center align-items-center">
+            <div class="signup-form">
+                <div class="auth-logo text-center mb-2">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p>Profile Information</p>
+                        </div>
+                    </div>
+                </div>
+                <form method="post" enctype="multipart/form-data">
+                    <input type="hidden" asp-for="UserInfo.UserId" />
+                    <div class="row">                     
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="UserInfo.FirstName">First Name</label>
+                                <input asp-for="UserInfo.FirstName" class="form-control" autocomplete="FirstName" aria-required="true" placeholder="First Name" />
+                                <span asp-validation-for="UserInfo.FirstName" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="UserInfo.LastName">Last Name</label>
+                                <input asp-for="UserInfo.LastName" class="form-control" autocomplete="LastName" aria-required="true" placeholder="Last Name" />
+                                <span asp-validation-for="UserInfo.LastName" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="UserInfo.DateOfBirth">Date of Birth</label>
+                                <input asp-for="UserInfo.DateOfBirth" type="date" class="form-control" />
+                                <span asp-validation-for="UserInfo.DateOfBirth" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="UserInfo.Gender" class="control-label"></label>
+                                <select asp-for="UserInfo.Gender" asp-items="ViewBag.GenderList" class="form-control">
+                                    <option value="">-- Select Gender --</option>
+                                </select>
+                                <span asp-validation-for="UserInfo.Gender" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="UserInfo.PhoneNumber">Phone Number</label>
+                                <input asp-for="UserInfo.PhoneNumber" class="form-control" autocomplete="PhoneNumber" aria-required="true" placeholder="Phone Number" />
+                                <span asp-validation-for="UserInfo.PhoneNumber" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="UserInfo.AboutMe">About Me</label>
+                                <input asp-for="UserInfo.AboutMe" class="form-control" autocomplete="AboutMe" aria-required="true" placeholder="About Me" />
+                                <span asp-validation-for="UserInfo.AboutMe" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="UserInfo.JobTitle">JobT itle</label>
+                                <input asp-for="UserInfo.JobTitle" class="form-control" autocomplete="JobTitle" aria-required="true" placeholder="JobT itle" />
+                                <span asp-validation-for="UserInfo.JobTitle" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label asp-for="UserInfo.ImgUrl">Upload Profile Image</label>
+                                <input name="file" class="form-control form-controlCustom" type="file">
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            
+                        </div>
+
+                        <div class="col-md-6 text-right">
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-primary sign-up">Save</button>
+                            </div>
+                        </div>
+
+                    </div>
+                   
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<style>
+    .form-controlCustom {
+        border-radius: 0px;
+        padding: 6px;
+        border: 1px solid #ccc;
+        font-size: .8em;
+    }
+</style>

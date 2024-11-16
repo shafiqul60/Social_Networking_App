@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Core\\Social_Networking_App.Core.csproj": {}
+    "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Core\\Social_Networking_App.Core.csproj": {}
   },
   "projects": {
-    "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Core\\Social_Networking_App.Core.csproj": {
+    "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Core\\Social_Networking_App.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Core\\Social_Networking_App.Core.csproj",
+        "projectUniqueName": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Core\\Social_Networking_App.Core.csproj",
         "projectName": "Social_Networking_App.Core",
-        "projectPath": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Core\\Social_Networking_App.Core.csproj",
+        "projectPath": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Core\\Social_Networking_App.Core.csproj",
         "packagesPath": "C:\\Users\\shafi\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\Final Project\\Social_Networking_App\\Social_Networking_App.Core\\obj\\",
+        "outputPath": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shafi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
