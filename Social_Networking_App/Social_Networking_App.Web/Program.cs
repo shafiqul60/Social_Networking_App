@@ -37,7 +37,10 @@ builder.Services.AddNotyf(config => { config.DurationInSeconds = 15; config.IsDi
 //Services
 builder.Services.AddScoped(typeof(IGenericRepo<>), typeof(GenericRepo<>));
 builder.Services.AddScoped<IProfileRepo, ProfileRepo>();
+builder.Services.AddScoped<IEventRepo, EventRepo>();
 builder.Services.AddScoped<IProfileService, ProfileService>();
+builder.Services.AddScoped<IEventService, EventService>();
+
 
 
 var app = builder.Build();

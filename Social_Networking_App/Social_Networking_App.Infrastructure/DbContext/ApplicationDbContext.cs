@@ -23,5 +23,8 @@ namespace Social_Networking_App.Infrastructure.DbContext
         }
 
         public DbSet<UserInfo> UserInfos { get; set; }
+        public DbSet<Event> Events { get; set; }
+        public DbSet<FriendNotification> FriendNotifications { get; set; }
+        public DbSet<FriendList> FriendLists { get; set; }
     }
 }

@@ -302,6 +302,8 @@ D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Netwo
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\Social_Networking_App.Web.runtimeconfig.json
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\Social_Networking_App.Web.dll
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\Social_Networking_App.Web.pdb
+D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.Views.dll
+D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.dll
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\Azure.Core.dll
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\Azure.Identity.dll
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\Humanizer.dll
@@ -593,5 +595,3 @@ D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Netwo
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\obj\Debug\net8.0\Social_Networking_App.Web.pdb
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\obj\Debug\net8.0\Social_Networking_App.Web.genruntimeconfig.cache
 D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\obj\Debug\net8.0\ref\Social_Networking_App.Web.dll
-D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.Views.dll
-D:\Education\MSC\DEV 640 Web Programming Part2\DEV640 Final Project\Social_Networking_App\Social_Networking_App\Social_Networking_App.Web\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.dll

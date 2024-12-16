@@ -1,0 +1,90 @@
+﻿@model IEnumerable<Social_Networking_App.Core.Domains.UserInfo>
+@using Social_Networking_App.Core.Domains
+@{
+    ViewData["Title"] = "Friend List";
+    var exixting = ViewBag.ExistingFriends as IEnumerable<UserInfo>;
+}
+
+
+<div class="bg-white py-3 px-4 shadow-sm">
+    <div class="card-head d-flex justify-content-between">
+        <div>
+            <h5 class="mb-4">Friends</h5>
+
+            <div class="row">
+                @if (exixting != null && exixting.Any())
+                {
+                    @foreach (var frnd in exixting)
+                    {
+                        <div class="col-md-2 col-sm-6">
+                            <div class="card group-card shadow-sm">
+                                @if (@frnd.ImgUrl is not null)
+                                {
+                                    <img src="~/@frnd.ImgUrl" class="card-img-top group-card-image" alt="Group image">
+                                }
+                                else
+                                {
+                                    <img src="~/Template/assets/images/users/user-8.png" class="card-img-top group-card-image" alt="Group image">
+                                }
+
+                                <div class="card-body">
+                                    <h5 class="card-title">@(frnd.FirstName.ToString() + " " + frnd.LastName.ToString())</h5>
+                                    <p class="card-text">@frnd.JobTitle</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+
+            </div>
+        </div>
+
+    </div>
+</div>
+  </div>
+
+<div class="bg-white py-3 px-4 shadow-sm">
+    <div class="card-head d-flex justify-content-between">
+
+
+        <h5 class="mb-4">People You May Know</h5>
+        <a href="@Url.Action("NewsFeed", "Home")" class="btn btn-link">Back to NewsFeed</a>
+    </div>
+
+    <form method="get" asp-action="FindFriends">
+        <input class="form-control" type="text" name="searchQuery" placeholder="Search by name" value="@ViewData["SearchQuery"]" />
+        <button style="margin-top: 20px; margin-bottom: 40px;" class="btn btn-primary sign-up" type="submit">
+            Search
+        </button>
+    </form>
+
+
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-2 col-sm-6">
+                <div class="card group-card shadow-sm">
+                    @if (@item.ImgUrl is not null)
+                    {
+                        <img src="~/@item.ImgUrl" class="card-img-top group-card-image" alt="Group image">
+                    }
+                    else
+                    {
+                        <img src="~/Template/assets/images/users/user-8.png" class="card-img-top group-card-image" alt="Group image">
+                    }
+
+                    <div class="card-body">
+                        <h5 class="card-title">@(item.FirstName.ToString() + " " + item.LastName.ToString())</h5>
+                        <p class="card-text">@item.JobTitle</p>
+                        <div class="btn-group w-100" role="group">
+                            @* <a href="#" class="btn btn-quick-link join-group-btn border w-100">Add Friend</a> *@
+                            <a asp-action="AddFriendRequest" class="btn btn-info" asp-route-id="@item.UserId" class="btn btn-quick-link join-group-btn border w-100">Add Friend</a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

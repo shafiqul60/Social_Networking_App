@@ -141,7 +141,10 @@ namespace Social_Networking_App.Web.Areas.Identity.Pages.Account
                     else
                     {
                         await _signInManager.SignInAsync(user, isPersistent: false);
-                        return LocalRedirect(returnUrl);
+                        //return LocalRedirect(returnUrl);
+                        //return RedirectToAction("Login", "Account", new { area = "" });
+                        //return RedirectToAction("Login", "Account", new { area = "Identity" });
+                        return Redirect("/Identity/Account/Login");
                     }
                 }
                 foreach (var error in result.Errors)

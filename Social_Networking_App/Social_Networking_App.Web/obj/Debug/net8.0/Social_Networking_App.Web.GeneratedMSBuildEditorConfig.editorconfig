@@ -186,12 +186,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Education/MSC/DEV 640 Web Programming Part2/DEV640 Final Project/Social_Networking_App/Social_Networking_App/Social_Networking_App.Web/ViewComponents/Views/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld0NvbXBvbmVudHNcVmlld3NcTm90aWZpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Education/MSC/DEV 640 Web Programming Part2/DEV640 Final Project/Social_Networking_App/Social_Networking_App/Social_Networking_App.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Education/MSC/DEV 640 Web Programming Part2/DEV640 Final Project/Social_Networking_App/Social_Networking_App/Social_Networking_App.Web/Views/Home/Newsfeed.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXdzZmVlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Education/MSC/DEV 640 Web Programming Part2/DEV640 Final Project/Social_Networking_App/Social_Networking_App/Social_Networking_App.Web/Views/Profile/DetailNotification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxEZXRhaWxOb3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Education/MSC/DEV 640 Web Programming Part2/DEV640 Final Project/Social_Networking_App/Social_Networking_App/Social_Networking_App.Web/Views/Profile/FindFriends.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxGaW5kRnJpZW5kcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Education/MSC/DEV 640 Web Programming Part2/DEV640 Final Project/Social_Networking_App/Social_Networking_App/Social_Networking_App.Web/Views/Profile/Upsert.cshtml]

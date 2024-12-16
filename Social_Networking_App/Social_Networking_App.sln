@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social_Networking_App.Web", "Social_Networking_App.Web\Social_Networking_App.Web.csproj", "{74A7320E-E608-4D3F-B808-E79D4FFCF32F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Social_Networking_App.Web", "Social_Networking_App.Web\Social_Networking_App.Web.csproj", "{74A7320E-E608-4D3F-B808-E79D4FFCF32F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social_Networking_App.Core", "Social_Networking_App.Core\Social_Networking_App.Core.csproj", "{98933319-5672-4153-8B11-72DD5FB69AEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Social_Networking_App.Core", "Social_Networking_App.Core\Social_Networking_App.Core.csproj", "{98933319-5672-4153-8B11-72DD5FB69AEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social_Networking_App.Infrastructure", "Social_Networking_App.Infrastructure\Social_Networking_App.Infrastructure.csproj", "{5326F5D4-7970-4228-A818-65C716B2C20F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Social_Networking_App.Infrastructure", "Social_Networking_App.Infrastructure\Social_Networking_App.Infrastructure.csproj", "{5326F5D4-7970-4228-A818-65C716B2C20F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

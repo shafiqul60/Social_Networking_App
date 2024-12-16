@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Social_Networking_App.Core.Domains.FriendNotification>
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-12">
+            <div class=" rounded h-100 p-4">
+                <div class="row">
+                    <a style="float:right;" href="@Url.Action("NewsFeed", "Home")" class="btn btn-link">Back to NewsFeed</a>
+                </div>
+
+                <h6 class="mb-4">Notification List</h6>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+
+                                <th>
+                                    Title
+                                </th>
+                                <th>
+                                    Detail Notification
+                                </th>
+                                <th>
+                                   Date 
+                                </th>
+                              
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        Friend Request
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NotiMessage)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.CreatedDate)
+                                    </td>
+                                                                   
+                                    <td>
+                                        <a asp-action="Accept" asp-controller="Profile" class="btn btn-info" asp-route-id="@item.NotificationId">Accept</a> |
+                                        <a asp-action="Reject" asp-controller="Profile" class="btn btn-warning" asp-route-id="@item.NotificationId">Reject</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

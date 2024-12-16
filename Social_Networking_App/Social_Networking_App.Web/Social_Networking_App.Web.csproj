@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\Images\Profiles\" />
     <Folder Include="wwwroot\Template\" />
   </ItemGroup>
 

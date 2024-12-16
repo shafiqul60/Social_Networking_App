@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Social_Networking_App.Core.Domains.FriendNotification>
+
+<div class="dropdown">
+   @*  <a href="@Url.Action("DetailNotification", "Profile", new { Area = ""})" class="nav-link pd-x-7 pos-relative notification-dropdown" data-toggle="dropdown">
+        <span class="login-name">
+
+            <span class="notify-icon">
+                <i style="color:black; font-size:27px;" class="fa fa-bell"></i>
+                <span style="background-color: aquamarine;" class="rounded-circle notification-count">@Model.Count()</span>
+            </span>
+        </span>
+    </a> *@
+
+    <a href="@Url.Action("DetailNotification", "Profile", new { Area = ""})" class="nav-link pd-x-7 pos-relative notification-dropdown" data-toggle="dropdown">
+        <span style="background-color: aquamarine;" class="rounded-circle notification-count">@Model.Count()</span>
+    </a>
+
+    @* <div class="dropdown-menu dropdown-menu-header">
+        <div class="media-list">
+            @if (Model != null && Model.Count() > 0)
+            {
+                var notificationList = Model.Take(3);
+
+                @foreach (var notification in notificationList)
+                {
+                    <a href="@Url.Action("", "", new { Area = ""})" class="media-list-link read">
+                        <div class="media">
+                            <div class="media-body">
+                                <p class="noti-text"><strong>@notification.NotiMessage</strong></p>
+                                <span>@notification.CreatedDate</span>
+                            </div>
+                        </div>
+                    </a>
+                }
+            }
+            else
+            {
+                <div class="media">
+                    <div class="media-body">
+                        <p class="noti-text"><strong>You are done all!</strong></p>
+                    </div>
+                </div>
+            }
+
+            <div class="dropdown-footer">
+                <a href="@Url.Action("", "", new { Area = "" })"><i class="fa fa-angle-down"></i> Show All Notifications</a>
+            </div>
+        </div>
+    </div> *@
+</div>
