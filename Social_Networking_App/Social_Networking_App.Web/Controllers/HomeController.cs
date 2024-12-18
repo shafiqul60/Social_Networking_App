@@ -59,7 +59,7 @@ namespace Social_Networking_App.Web.Controllers
                 else
                 {
                     imagePath = userInfo.ImgUrl;
-                    userName = userInfo.LastName;
+                    userName = userInfo.FirstName + " " + userInfo.LastName;
                 }
             }
 

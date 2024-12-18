@@ -112,7 +112,8 @@ namespace Social_Networking_App.Web.Controllers
 
                 if (!string.IsNullOrEmpty(searchQuery))
                 {
-                    userList = (IList<UserInfo>) await _profileService.GetFriendBySearch(searchQuery, singedInUserId);
+                    var query = searchQuery.Trim();
+                    userList = (IList<UserInfo>) await _profileService.GetFriendBySearch(query, singedInUserId);
                     ViewData["SearchQuery"] = searchQuery;
                 }
                 else
