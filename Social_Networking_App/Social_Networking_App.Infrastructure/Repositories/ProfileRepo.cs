@@ -37,9 +37,9 @@ namespace Social_Networking_App.Infrastructure.Repositories
             var friendIds = list2.Select(f => f.FriendId).ToHashSet();
 
             // Remove users from list1 whose UserId is in the list of FriendIds
-            list1 = list1.Where(u => !friendIds.Contains(u.UserId)).ToList();
+            var result = list1.Where(u => !friendIds.Contains(u.UserId)).ToList();
 
-            return list1;
+            return result;
         }
 
 
@@ -52,9 +52,10 @@ namespace Social_Networking_App.Infrastructure.Repositories
             var friendIds = list2.Select(f => f.FriendId).ToHashSet();
 
             // Remove users from list1 whose UserId is in the list of FriendIds
-            list1 = list1.Where(u => !friendIds.Contains(u.UserId)).ToList();
+            var temp = list1.Where(u => !friendIds.Contains(u.UserId)).ToList();
 
-            var result = list1.Where(u => u.FirstName.Contains(searchQuery));
+            //var result = list1.Where(u => u.FirstName.Contains(searchQuery));
+            var result = temp.Where(u => u.FirstName.Contains(searchQuery)).ToList();
             return result;
         }
 

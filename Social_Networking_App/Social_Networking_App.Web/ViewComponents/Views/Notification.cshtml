@@ -11,10 +11,10 @@
         </span>
     </a> *@
 
-    <a href="@Url.Action("DetailNotification", "Profile", new { Area = ""})" class="nav-link pd-x-7 pos-relative notification-dropdown" data-toggle="dropdown">
-        <span style="background-color: aquamarine;" class="rounded-circle notification-count">@Model.Count()</span>
-    </a>
-
+   @*  <a href="@Url.Action("DetailNotification", "Profile", new { Area = ""})" class="nav-link pd-x-7 pos-relative notification-dropdown" data-toggle="dropdown">
+       
+    </a> *@
+    <span style="background-color: aquamarine;" class="rounded-circle notification-count">@Model.Count()</span>
     @* <div class="dropdown-menu dropdown-menu-header">
         <div class="media-list">
             @if (Model != null && Model.Count() > 0)

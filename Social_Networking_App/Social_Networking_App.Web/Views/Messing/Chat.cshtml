@@ -1,0 +1,157 @@
+﻿@{
+    ViewData["Title"] = "Chat With Group";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Real-Time Chat With Group</title>
+    <style>
+        .chat-container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .message-container {
+            display: flex;
+            flex-direction: column;
+            background-color: #4c2e2e;
+        }
+
+        .message {
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+            word-wrap: break-word;
+            display: flex;
+            align-items: center;
+        }
+
+
+        .message1 {
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+            word-wrap: break-word;
+            display: flex;
+            align-items: center;
+            width: 97%;
+        }
+
+        .sender-message {
+            background-color: #e0e0e0;
+            color: #000;
+            align-self: flex-start;
+        }
+
+        .receiver-message {
+            background-color: #4CAF50;
+            color: #fff;
+            align-self: flex-end;
+        }
+
+        .avatar {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+
+        .message input {
+            width: calc(100% - 20px);
+            padding: 8px;
+            margin: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .message button {
+            padding: 8px;
+            margin: 10px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="chat-container">
+        <div>
+            <div class="card-head d-flex justify-content-between">
+                <h5 class="mb-4">Chat With a Group</h5>
+                <a href="@Url.Action("NewsFeed", "Home")" class="btn btn-link">Back to NewsFeed</a>
+            </div>
+        </div>
+        <div class="message-container">
+           
+            <div class="row">
+                <div class="col-md-12 col-lg-12">
+                    <input class="message1 form-control" type="text" id="username" placeholder="Enter your username" value="@ViewBag.CurrentUser" readonly />
+                </div>          
+            </div>
+
+           
+            <div id="chatBox"></div>
+
+            <div class="row">
+                <div class="col-md-9 col-lg-9">
+                    <textarea class="message form-control" type="text" id="message" placeholder="Enter your message"></textarea>
+                </div>
+                <div class="col-md-3 col-lg-3">
+                    <button style="margin-top: 10px;" class="btn btn-primary" id="sendButton">Send</button>
+                </div>
+            </div>
+        </div>   
+    </div>
+   
+
+
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+
+    <script>
+        var connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
+
+        connection.on("ReceiveMessage", function (user, message, sentAt) {
+            var encodedUser = $("<div />").text(user).html();
+            var encodedMsg = $("<div />").text(message).html();
+            // $("#chatBox").append("<p><strong>" + encodedUser + "</strong>" + " at" + sentAt + ": " + encodedMsg + "</p>");
+            // $("#chatBox").append(
+            //     "<div class='message sender-message'><p><strong>" + encodedUser + "</strong>" + " at " + sentAt + ": " + encodedMsg + "</p></div>"
+            // );
+            const currentUser = document.getElementById("username").value;
+
+            if (encodedUser === currentUser) {
+                $("#chatBox").append(
+                    "<div class='message sender-message'><p><strong>" + encodedUser + "</strong>" + " at " + sentAt + ": " + encodedMsg + "</p></div>"
+                );
+            } else {
+                $("#chatBox").append(
+                    "<div class='message receiver-message'><p><strong>" + encodedUser + "</strong>" + " at " + sentAt + ": " + encodedMsg + "</p></div>"
+                );
+            }
+
+        });
+
+        $("#sendButton").click(function () {
+            var user = $("#username").val();
+            var message = $("#message").val();
+            connection.invoke("SendMessage", user, message);
+            $("#message").val("").focus();
+        });
+
+        connection.start().then(function () {
+            console.log("Connected!");
+        }).catch(function (err) {
+            console.error(err.toString());
+        });
+    </script>
+</body>
+</html>

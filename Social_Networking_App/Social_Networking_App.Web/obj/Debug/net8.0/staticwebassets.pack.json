@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\Images\\Profiles\\01fc6787-4e6e-4680-80ea-1685b897c2b1.jpg"
     },
     {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Images\\Profiles\\168eb80e-1225-47de-80b0-bb8b8172f6b6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\168eb80e-1225-47de-80b0-bb8b8172f6b6.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Images\\Profiles\\18e16d79-8796-4a2c-8477-32c7105ee7f7.png",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\18e16d79-8796-4a2c-8477-32c7105ee7f7.png"
+    },
+    {
       "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Images\\Profiles\\6ab8b8ea-b093-47c4-84af-3c001303a940.jpg",
       "PackagePath": "staticwebassets\\Images\\Profiles\\6ab8b8ea-b093-47c4-84af-3c001303a940.jpg"
     },
@@ -19,6 +27,10 @@
     {
       "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Images\\Profiles\\883dca5e-b823-4045-b455-e3b0366942b6.jpg",
       "PackagePath": "staticwebassets\\Images\\Profiles\\883dca5e-b823-4045-b455-e3b0366942b6.jpg"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Images\\Profiles\\9f9ca72c-d2e2-4c3e-a5ea-ac2de5708ed6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Profiles\\9f9ca72c-d2e2-4c3e-a5ea-ac2de5708ed6.jpg"
     },
     {
       "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Images\\Profiles\\Afroza.jpg",
@@ -1051,6 +1063,14 @@
     {
       "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Social_Networking_App.Web.Microsoft.AspNetCore.StaticWebAssets.props",

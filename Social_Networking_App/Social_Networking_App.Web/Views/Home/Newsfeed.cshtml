@@ -5,6 +5,7 @@
 @{
     ViewData["Title"] = "Newsfeed";
 }
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <header>
     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
         <div class="container-fluid">
@@ -16,28 +17,24 @@
             </button>
             <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                 <ul class="navbar-nav flex-grow-1">
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                    </li>
-                  
-                    <li class="nav-item">
-                       
-                        <a class="nav-link text-dark" asp-area="" asp-controller="Profile" asp-action="DetailNotification">Notification</a>
+                    
+                    <li class="nav-item">                      
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Profile" asp-action="DetailNotification"><i class="fa fa-bell" style="font-size:24px"></i></a>
                     </li>
                     @await Component.InvokeAsync("Notification", false)
-                    <li class="nav-item">
+                    <li class="nav-item" style=" margin-right: 20px; margin-left:40px;">
                         <a href="@Url.Action("Upsert", "Profile")" class="nav-link nav-icon nav-links drop-w-tooltip">
                             <img src="~/Template/assets/images/icons/navbar/create.png" alt="description of image" />
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a href="profile.html" class="nav-link nav-links">
+                    <li class="nav-item" style="margin-right: 20px; margin-left:20px;">
+                        <a href="@Url.Action("Newsfeed", "Home")" class="nav-link nav-links">
                             <div class="menu-user-image">
                                 <img src="~/@ViewBag.ImgUrl" class="menu-user-img ml-1" alt="Menu Image">
                             </div>
                         </a>
                     </li>
-                    <li>
+                    <li style=" margin-right: 20px;">
                         <partial name="~/Views/Shared/_LoginPartial.cshtml" />
                     </li>                 
                 </ul>
@@ -59,11 +56,11 @@
                                 <h6>Home</h6>
                             </li>
                             <li class="list-group-item d-flex justify-content-between align-items-center sd-active">
-                                <a href="index.html" class="sidebar-item"><img src="~/Template/assets/images/icons/left-sidebar/newsfeed.png" alt="newsfeed"> News Feed</a>
+                                <a href="@Url.Action("Newsfeed", "Home")" class="sidebar-item"><img src="~/Template/assets/images/icons/left-sidebar/newsfeed.png" alt="newsfeed"> News Feed</a>
                                 <a href="#" class="newsfeedListicon"><i class='bx bx-dots-horizontal-rounded'></i></a>
                             </li>
                             <li class="list-group-item d-flex justify-content-between align-items-center">
-                                <a href="messages.html" class="sidebar-item"><img src="~/Template/assets/images/icons/left-sidebar/message.png" alt="message"> Messages</a>
+                                <a href="@Url.Action("Chat", "Messing")" class="sidebar-item"><img src="~/Template/assets/images/icons/left-sidebar/message.png" alt="message"> Messages</a>
                                 <span class="badge badge-primary badge-pill">2</span>
                             </li>
 

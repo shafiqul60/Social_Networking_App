@@ -1,14 +1,20 @@
 ﻿@model Social_Networking_App.Core.ViewModels.UserInfoVM;
-
+@{
+    ViewData["Title"] = "Profile Update";
+}
 
 <div class="container-fluid">
+   
     <div class="row ht-100v flex-row-reverse no-gutters">
+        <a href="@Url.Action("NewsFeed", "Home")" class="btn btn-link">Back to NewsFeed</a>
         <div class="col-md-12 d-flex justify-content-center align-items-center">
             <div class="signup-form">
+         
                 <div class="auth-logo text-center mb-2">
+                    
                     <div class="row">
                         <div class="col-md-12">
-                            <p>Profile Information</p>
+                            <p>Profile Information</p> 
                         </div>
                     </div>
                 </div>

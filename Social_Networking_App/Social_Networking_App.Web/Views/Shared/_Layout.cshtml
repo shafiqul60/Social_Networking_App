@@ -64,8 +64,9 @@
     <script src="~/Template/assets/js/jquery/jquery-3.3.1.min.js"></script>
     <script src="~/Template/assets/js/popper/popper.min.js"></script>
     <script src="~/Template/assets/js/bootstrap/bootstrap.min.js"></script>
-    <!-- Optional -->
-    <script src="assets/js/app.js"></script>
+
+@*     <!-- Optional -->
+    <script src="assets/js/app.js"></script> *@
 
     @await RenderSectionAsync("Scripts", required: false)
    @await Component.InvokeAsync("Notyf") 

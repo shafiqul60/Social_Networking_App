@@ -6,9 +6,11 @@ using Social_Networking_App.Core.IServices;
 using Social_Networking_App.Core.Services;
 using Social_Networking_App.Infrastructure.DbContext;
 using Social_Networking_App.Infrastructure.Repositories;
+using Social_Networking_App.Web.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddSignalR();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -60,8 +62,9 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapRazorPages();
+
 app.MapControllerRoute(
     name: "default",
-  pattern: "{controller=Home}/{action=Index}/{id?}");    
-
+  pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapHub<ChatHub>("chatHub");
 app.Run();
