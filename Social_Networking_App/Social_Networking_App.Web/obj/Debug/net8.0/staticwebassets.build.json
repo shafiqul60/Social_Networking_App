@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qMP9h46/YF8+MNaxKCN+TFaXMIIbwP7RgK/pvyyAInk=",
+  "Hash": "cqLsV4DPY8m+w/rJnztAlRWSAn+9RCAK6hbKudKap6U=",
   "Source": "Social_Networking_App.Web",
   "BasePath": "_content/Social_Networking_App.Web",
   "Mode": "Default",
@@ -1421,6 +1421,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Profiles\\883dca5e-b823-4045-b455-e3b0366942b6.jpg"
+    },
+    {
+      "Identity": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Images\\Profiles\\88564304-a29b-4ff9-8704-75dca73b0caf.jpg",
+      "SourceId": "Social_Networking_App.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\",
+      "BasePath": "_content/Social_Networking_App.Web",
+      "RelativePath": "Images/Profiles/88564304-a29b-4ff9-8704-75dca73b0caf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Profiles\\88564304-a29b-4ff9-8704-75dca73b0caf.jpg"
     },
     {
       "Identity": "D:\\Education\\MSC\\DEV 640 Web Programming Part2\\DEV640 Final Project\\Social_Networking_App\\Social_Networking_App\\Social_Networking_App.Web\\wwwroot\\Images\\Profiles\\9f9ca72c-d2e2-4c3e-a5ea-ac2de5708ed6.jpg",
